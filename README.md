@@ -8,3 +8,5 @@ Test Size: 64
 
 DNNClassifier uses 300 Hidden Units and trains on a Batch Size of 10 over 20000 Steps. 
 Accuracy of the model on the Test Sample only at 0.15
+
+PokemonCNN builds a CNN with 2 convolutional layers and 2 Pooling Layers. 
